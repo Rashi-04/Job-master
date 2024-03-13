@@ -12,3 +12,4 @@ This is a chrome extension that you can use to get the job details of the top th
 * Type in the search box the type of job use want to find.
 * Click on the search button and wait for 1-2 seconds.
 * You will get the job id and link to apply for the top 3 jobs on the web.
+* Then right click on the link you want to visit.
